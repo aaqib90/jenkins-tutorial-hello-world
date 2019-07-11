@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-tutorial-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaqib90/jenkins-tutorial-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaqib90/jenkins-tutorial-hello-world/issues"
+  },
+  "homepage": "https://github.com/aaqib90/jenkins-tutorial-hello-world#readme"
+}
